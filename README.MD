@@ -1,0 +1,1 @@
+A bunch of examples of different design patterns.
